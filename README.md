@@ -22,8 +22,11 @@
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E50914" />
   </a>
 </div>
+
 <br/>
+
 ---
+
 ### 👨‍💻 About Me
 
 ```json
