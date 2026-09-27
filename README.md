@@ -1,19 +1,29 @@
 <div align="center">
 
-  <!-- Header Banner / GIF -->
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" alt="Coding GIF" />
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://github.com/Nitish-Soni">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=700&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Nitish+Soni+(EtHicS);Developer+Support+Engineer+%40+Okta+(Auth0);MERN+Stack+Architect+%26+Security+Enthusiast;National-Level+Cricketer+%7C+Tech+Writer+%26+Painter" alt="Typing SVG" />
+  </a>
 
-  <h1>Hi, I'm Nitish Soni <a href="https://github.com/Nitish-Soni"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a></h1>
-  <p><b>Developer Support Engineer at Okta|(Auth0) | MERN Stack Developer | Identity & Security</b></p>
+  <br/>
 
-  <!-- Visitor Count -->
-  <a href="https://visitorbadge.io/status?path=NitishSoni-1726">
-    <img src="https://api.visitorbadge.io/api/visitors?path=NitishSoni-1726&countColor=%2322c55e&style=flat-square" alt="Visitor Counter" />
+  <!-- High-Tech Glass Badge Line -->
+  <p align="center">
+    <a href="https://visitorbadge.io/status?path=NitishSoni-1726">
+      <img src="https://api.visitorbadge.io/api/visitors?path=NitishSoni-1726&countColor=%2322c55e&style=flat-square" alt="Visitor Counter" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Identity%20%26%20Security-007DC1?style=flat-square&logo=okta&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Debugging%20Auth0%20Flows-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+  </p>
+
+  <!-- Centered Floating GIF Frame -->
+  <a href="https://github.com/Nitish-Soni">
+    <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="550" style="border-radius:12px; box-shadow: 0px 4px 20px rgba(34, 197, 94, 0.2);" alt="Coding GIF" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Social Terminal Buttons -->
   <a href="https://github.com/Nitish-Soni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -29,69 +39,19 @@
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-- 💼 **Current Role:** Developer Support Engineer @**Okta | (Auth0)**
-- 🏢 **Past Experience:** Technical Lead < Senior Technical Support Engineer < Technical Support Engineer @**Citrix(NetScaler)**
-- 🎓 **Education:** B.Tech in Computer Science from **Jain University, Bengaluru** (2019–2023)
-- 🚀 **Specializations:** Identity & Access Management (IAM), OAuth 2.0 / OIDC, MERN Stack, L1/L2 Root Cause Analysis (RCA), SSL/TLS Security, Application Delivery Controllers (ADC), and AI-assisted Incident Resolution.
-- 🤝 **Collaboration:** Open to collaborating on MERN Stack Web Projects, Authentication/Security Tools, or Open-Source Solutions!
-
----
-
-### ⚡ Fun Facts & Hobbies
-
-- 🏏 **National-Level Cricket Player** — Bringing high energy, discipline, and teamwork to both code and the field.
-- 🎨 **Creative Outlet:** I spend my spare time writing and bringing thoughts to life through painting.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Identity, Authentication & Security**
 <br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSL/TLS-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS/DNSSEC-22314E?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email_Security_(DKIM/DMARC)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Citrix_NetScaler-000000?style=for-the-badge&logo=citrix&logoColor=white" />
-</p>
-
-**Full-Stack Development**
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Tools, Diagnostics & Operating Systems**
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
 
 ---
 
-<div align="center">
-  <i>"Securing identity & debugging code by day, painting thoughts by night."</i>
-</div>
+### ⚡ `whoami` & Terminal Overview
+
+```bash
+nitish@dev-machine:~$ cat about_me.json
+{
+  "name": "Nitish Soni (EtHicS)",
+  "role": "Developer Support Engineer @ Okta | Auth0",
+  "career_path": "Technical Support Engineer ➔ Sr. Tech Support Engineer ➔ Tech Lead ➔ Dev Support Engineer",
+  "alma_mater": "B.Tech Computer Science @ Jain University, Bengaluru (2019-2023)",
+  "specialties": ["OAuth 2.0 / OIDC", "IAM Architecture", "MERN Stack", "L1/L2 RCA", "SSL/TLS Diagnostics"],
+  "hobbies": ["National-Level Cricket 🏏", "Technical Writing ✍️", "Acrylic & Digital Painting 🎨"]
+}
