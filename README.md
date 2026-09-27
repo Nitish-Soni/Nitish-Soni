@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" alt="Coding GIF" />
 
   <h1>Hi, I'm Nitish Soni <a href="https://github.com/Nitish-Soni"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a></h1>
-  <p><b>Developer Support Engineer @ Okta (Auth0) | MERN Stack Developer | Identity & Security</b></p>
+  <p><b>Developer Support Engineer at Okta|(Auth0) | MERN Stack Developer | Identity & Security</b></p>
 
   <!-- Visitor Count -->
   <a href="https://visitorbadge.io/status?path=NitishSoni-1726">
@@ -33,17 +33,17 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Role:** Developer Support Engineer @ **Okta (Auth0)**
-- 🏢 **Past Experience:** Senior Technical Support Engineer @ **HCL Tech** | L2 Technical Support Engineer @ **Xpheno (Citrix NetScaler)**
+- 💼 **Current Role:** Developer Support Engineer @**Okta | (Auth0)**
+- 🏢 **Past Experience:** Technical Lead < Senior Technical Support Engineer < Technical Support Engineer @**Citrix(NetScaler)**
 - 🎓 **Education:** B.Tech in Computer Science from **Jain University, Bengaluru** (2019–2023)
 - 🚀 **Specializations:** Identity & Access Management (IAM), OAuth 2.0 / OIDC, MERN Stack, L1/L2 Root Cause Analysis (RCA), SSL/TLS Security, Application Delivery Controllers (ADC), and AI-assisted Incident Resolution.
-- 🤝 **Collaboration:** Open to collaborating on MERN Stack web projects, authentication/security tools, or open-source solutions!
+- 🤝 **Collaboration:** Open to collaborating on MERN Stack Web Projects, Authentication/Security Tools, or Open-Source Solutions!
 
 ---
 
 ### ⚡ Fun Facts & Hobbies
 
-- 🏏 **National-Level Cricket Player** — bringing high energy, discipline, and teamwork to both code and the field.
+- 🏏 **National-Level Cricket Player** — Bringing high energy, discipline, and teamwork to both code and the field.
 - 🎨 **Creative Outlet:** I spend my spare time writing and bringing thoughts to life through painting.
 
 ---
@@ -92,13 +92,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-- 🔐 **[SSL/TLS Inspector](https://github.com/Nitish-Soni)** — A full-stack security scanning tool inspired by Qualys SSL Labs. Built with a Node.js backend using native TLS/HTTPS/DNS modules to perform deep server analysis, alongside a React (Vite) UI.
-- 📝 **[ToDo Web Application](https://github.com/Nitish-Soni)** — A full-stack MERN Single Page Application (SPA) with user authentication, secure REST API, and complete CRUD functionality.
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -109,7 +102,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish-Soni&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish-Soni&theme=microsoft" alt="Streak Stats" />
 </div>
 
 ---
