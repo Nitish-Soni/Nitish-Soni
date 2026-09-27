@@ -23,8 +23,6 @@
   </a>
 </div>
 
-<br/>
-
 ---
 
 ### 👨‍💻 About Me
@@ -46,11 +44,9 @@ nitish@dev-machine:~$ cat nitish.soni.json
 }
 ```
 
-<br/>
-
 ---
 
-### 👨‍💻 Tech Stacks
+### 🛠️ Tech Stacks
 
 ```bash
 nitish@dev-machine:~$ cat nitish.soni.json
