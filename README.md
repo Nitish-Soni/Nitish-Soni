@@ -5,10 +5,10 @@
   <a href="https://github.com/Nitish-Soni">
     <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="550" alt="Coding GIF" />
   </a>
+    <br/><br/>
     <p align="center">
     <b>Developer Support Engineer at Okta | (Auth0) &bull; MERN Stack Developer &bull; Identity & Security</b>
   </p>
-  <br/><br/>
   <a href="https://github.com/Nitish-Soni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=E50914" />
   </a>
