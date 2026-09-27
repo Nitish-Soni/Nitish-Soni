@@ -28,7 +28,7 @@
 ### 👨‍💻 About Me
 
 ```bash
-nitish@dev-machine:~$ cat nitish.soni.json
+nitish@dev-machine:~$ cat NitishSoni.json
 {
   "name": "Nitish Soni (EtHicS)",
   "current_role": "Developer Support Engineer @ Okta | (Auth0)",
@@ -46,10 +46,10 @@ nitish@dev-machine:~$ cat nitish.soni.json
 
 ---
 
-### 🛠️ Tech Stacks
+### 🛠️ Tech Stack & Skills
 
 ```bash
-nitish@dev-machine:~$ cat nitish.soni.json
+nitish@dev-machine:~$ cat TechStack.json
 {
   "tech_stack": {
     "identity_authentication_and_security": [
@@ -98,4 +98,6 @@ nitish@dev-machine:~$ cat nitish.soni.json
   }
 }
 ```
+
+---
 
