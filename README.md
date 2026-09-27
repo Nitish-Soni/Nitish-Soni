@@ -29,7 +29,8 @@
 
 ### 👨‍💻 About Me
 
-```json
+```bash
+nitish@dev-machine:~$ cat about_me.json
 {
   "name": "Nitish Soni (EtHicS)",
   "current_role": "Developer Support Engineer @ Okta | (Auth0)",
