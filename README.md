@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" alt="Coding GIF" />
 
   <h1>Hi, I'm Nitish Soni <a href="https://github.com/Nitish-Soni"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a></h1>
-  <p><b>Senior Technical Support Engineer | MERN Stack Developer | Network & Security Enthusiast</b></p>
+  <p><b>Developer Support Engineer @ Okta (Auth0) | MERN Stack Developer | Identity & Security</b></p>
 
   <!-- Visitor Count -->
   <a href="https://visitorbadge.io/status?path=NitishSoni-1726">
@@ -33,11 +33,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Role:** Senior Technical Support Engineer @ **HCL Tech** (CSG)
-- 🏢 **Past Experience:** Technical Support Engineer @ **Xpheno (Citrix NetScaler)**
+- 💼 **Current Role:** Developer Support Engineer @ **Okta (Auth0)**
+- 🏢 **Past Experience:** Senior Technical Support Engineer @ **HCL Tech** | L2 Technical Support Engineer @ **Xpheno (Citrix NetScaler)**
 - 🎓 **Education:** B.Tech in Computer Science from **Jain University, Bengaluru** (2019–2023)
-- 🚀 **Specializations:** MERN Stack, L1/L2 Root Cause Analysis (RCA), SSL/TLS Security, Application Delivery Controllers (ADC), and AI-assisted Incident Resolution.
-- 🤝 **Collaboration:** Open to collaborating on MERN Stack web projects, network tools, or open-source solutions!
+- 🚀 **Specializations:** Identity & Access Management (IAM), OAuth 2.0 / OIDC, MERN Stack, L1/L2 Root Cause Analysis (RCA), SSL/TLS Security, Application Delivery Controllers (ADC), and AI-assisted Incident Resolution.
+- 🤝 **Collaboration:** Open to collaborating on MERN Stack web projects, authentication/security tools, or open-source solutions!
 
 ---
 
@@ -49,6 +49,18 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
+
+**Identity, Authentication & Security**
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL/TLS-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS/DNSSEC-22314E?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email_Security_(DKIM/DMARC)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Citrix_NetScaler-000000?style=for-the-badge&logo=citrix&logoColor=white" />
+</p>
 
 **Full-Stack Development**
 <br/>
@@ -65,19 +77,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Networking, Security & Enterprise Protocols**
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/SSL/TLS-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS/DNSSEC-22314E?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP/IP_&_UDP-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTTP/HTTPS-4169E1?style=for-the-badge&logo=http&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN_&_VLANs-000000?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email_Security_(DKIM/DMARC)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Citrix_NetScaler-000000?style=for-the-badge&logo=citrix&logoColor=white" />
-</p>
-
-**Tools, Diagnostic & Operating Systems**
+**Tools, Diagnostics & Operating Systems**
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -115,5 +115,5 @@
 ---
 
 <div align="center">
-  <i>"Debugging protocols by day, painting thoughts by night."</i>
+  <i>"Securing identity & debugging code by day, painting thoughts by night."</i>
 </div>
