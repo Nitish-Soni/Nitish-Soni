@@ -92,21 +92,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish-Soni&show_icons=true&theme=tokyonight&hide_border=true" alt="Nitish Soni's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-Soni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish-Soni&theme=microsoft" alt="Streak Stats" />
-</div>
-
----
-
 <div align="center">
   <i>"Securing identity & debugging code by day, painting thoughts by night."</i>
 </div>
