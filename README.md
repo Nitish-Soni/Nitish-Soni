@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/Nitish-Soni">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=E50914&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I+am+Nitish+Soni" alt="Hi, I am Nitish Soni" />
-  </a>
+<a href="https://github.com/Nitish-Soni">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I+am+Nitish+Soni" alt="Hi, I am Nitish Soni" />
+</a>
   <a href="https://github.com/Nitish-Soni">
     <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="550" alt="Coding GIF" />
   </a>
@@ -100,4 +100,6 @@ nitish@dev-machine:~$ cat TechStack.json
 ```
 
 ---
-
+<div align="center">
+  <i>"Securing Identity & Debugging Code by Day, Painting Thoughts by Night."</i>
+</div>
