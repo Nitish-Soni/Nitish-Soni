@@ -30,7 +30,7 @@
 ### 👨‍💻 About Me
 
 ```bash
-nitish@dev-machine:~$ cat about_me.json
+nitish@dev-machine:~$ cat nitish.soni.json
 {
   "name": "Nitish Soni (EtHicS)",
   "current_role": "Developer Support Engineer @ Okta | (Auth0)",
@@ -44,3 +44,62 @@ nitish@dev-machine:~$ cat about_me.json
     "SSL/TLS Security & ADC"
   ]
 }
+```
+
+<br/>
+
+---
+
+### 👨‍💻 Tech Stacks
+
+```bash
+nitish@dev-machine:~$ cat nitish.soni.json
+{
+  "tech_stack": {
+    "identity_authentication_and_security": [
+      "Okta",
+      "Auth0",
+      "OAuth 2.0 / OIDC",
+      "SSL/TLS",
+      "DNS / DNSSEC",
+      "Email Security (DKIM/DMARC)",
+      "Citrix NetScaler (ADC)"
+    ],
+    "full_stack_development": {
+      "languages": ["JavaScript (ES6+)", "HTML5", "CSS3"],
+      "frontend_frameworks": ["React.js", "Tailwind CSS", "Bootstrap"],
+      "backend_frameworks": ["Node.js", "Express.js"],
+      "databases": ["MongoDB"],
+      "api_architecture": ["REST API"]
+    },
+    "networking_and_protocols": [
+      "TCP/IP",
+      "UDP",
+      "ICMP",
+      "ARP",
+      "IPv4 Subnetting",
+      "VLANs",
+      "VPN",
+      "HTTP/HTTPS",
+      "SNMP",
+      "SMTP"
+    ],
+    "tools_diagnostics_and_platforms": [
+      "Postman",
+      "Git",
+      "GitHub",
+      "Jira",
+      "Salesforce",
+      "SIEM",
+      "Zoom Contact Centre",
+      "Slack"
+    ],
+    "operating_systems": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  }
+}
+```
+
