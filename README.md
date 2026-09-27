@@ -9,17 +9,17 @@
     <p align="center">
     <b>Developer Support Engineer at Okta | (Auth0) &bull; MERN Stack Developer &bull; Identity & Security</b>
   </p>
-  <a href="https://github.com/Nitish-Soni">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=E50914" />
+<a href="https://github.com/Nitish-Soni">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=100000&color=181717" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/-nitish-soni-/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=100000&color=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_2nitish6_">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E50914" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=100000&color=E4405F" alt="Instagram" />
   </a>
   <a href="mailto:nitishsoni890@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E50914" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&labelColor=100000&color=EA4335" alt="Gmail" />
   </a>
 </div>
 
